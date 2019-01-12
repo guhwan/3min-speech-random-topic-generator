@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: yellow;
+}
+
+.image-wrapper {
+    display: flex;
+}
